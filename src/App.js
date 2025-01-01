@@ -4,7 +4,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     Expense Tracker
+      <p>
+      Expense Tracker App
+      </p>
+     
+
     </div>
   );
 }
